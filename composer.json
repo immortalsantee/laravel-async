@@ -10,7 +10,6 @@
         "illuminate/support": "^9.0|^10.0|^11.0|^12.0",
         "illuminate/process": "^9.0|^10.0|^11.0",
         "illuminate/console": "^9.0|^10.0|^11.0"
->>>>>>> 3024ad7a55849fca825b658f50c2ed7e104a1f6c
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^2.1",
